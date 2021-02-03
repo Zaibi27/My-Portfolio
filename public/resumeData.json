@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name": "Muhammad Ali Zaib",
+    "occupation": "Junior React JS Developer",
+    "description": "Becoming a Fullstack Developer is one of my ultimate goals.",
+    "image": "profilepic.jpeg",
+    "bio": "Hi there, I am M Ali Zaib! I am currently a student, graduating soon. I have a firm grip on frontend development of applications with react. I can work on MERN stack development at intermediate level. I also have good grip on fundamentals of OOP as well as data structures and algorithms. ",
+    "contactmessage": "Feel Free to contact me",
+    "email": "mail.muhammadalizaib@gmail.com",
+    "phone": "+923105391918",
+    "address": {
+      "street": "313 R.A Bazar",
+      "city": "Rawalpindi",
+      "state": "Pakistan",
+      "zip": "46000"
+    },
+    "website": "https://github.com/Zaibi27",
+    "resumedownload": "https://drive.google.com/file/d/10c9mCHCc9VMyQY15KSJ4ZfL6e3J2Bhjg/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100008357284869",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ali-zaib-2bba38193",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ali_zaibii/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Zaibi27",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Comsats University Islamabad",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "September 2017 - Present",
+        "description": "8th semester"
+      }
+    ],
+    "project": [
+      {
+        "type": "Final Year Project",
+        "title": "Teachfinity",
+        "years": "2020-21",
+        "description": "Teachfinity is an online teaching application that works exactly like other ones in the market but with some additional features like automated attendace etc. using AI and Machine Learning."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "C++",
+        "level": "40%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "Web Development",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+     
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://clone-1b173.web.app/"
+      },
+      {
+        "title": "Facebook Clone (React JS)",
+        "category": "",
+        "image": "facebook.jpg",
+        "url": "https://facebook-clone-app-27.web.app/"
+      },
+      {
+        "title": "Restaurant Confusion (React JS)",
+        "category": "",
+        "image": "confusion.png",
+        "url": "https://github.com/Zaibi27/Restorante-Con-Fusion-React-App"
+      },
+      {
+        "title": "Covid-19 App (ReactNative)",
+        "category": "",
+        "image": "covid-app.jpeg",
+        "url": "https://github.com/Zaibi27/Covid-19-App"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I approached Ali Zaib through a mutal friend for project regarding creating a new website, he was very professional and delivered an amazing website with cool animations. The best thing was that after he got the whole idea about the website and it's functionalities he toned the design and functionality with the best possible approach. Very Impressive Work from him.  We'll be more likely to ask for help in future projects.",
+        "user": "Abdullah Najam"
+      }
+    ]
+  }
+}
